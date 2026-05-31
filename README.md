@@ -3,9 +3,6 @@
 A Claude Code workspace for mobile app penetration testing. Combines two MCP servers — one for traffic interception and one for Android device control — so Claude can drive an end-to-end pentest autonomously: navigate the app, capture traffic, tamper requests/responses, and replay attacks.
 
 ## Demo
-https://pub-2b95e43d27bd4426853976f68f492734.r2.dev/ezgif-7f11cde1cda048cb.mov
-
-https://github.com/user-attachments/assets/1f6da0cf-370f-40b8-b132-968f087c3377
 
 ---
 
