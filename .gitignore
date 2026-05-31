@@ -1,0 +1,7 @@
+.venv
+findings/
+scripts/
+services/
+*.db
+*.pyc
+PENTEST_VARS.md
